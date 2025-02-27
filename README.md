@@ -55,9 +55,8 @@ https://github.com/ARM-software/ComputeLibrary
     * https://www.arm.com/products/development-tools/embedded-and-software/kleidi-libraries
 
 
- ---
- ## Arm Learning Path
-
+---
+## Arm Learning Path
 * Accelerate Matrix Multiplication Performance with SME2
   * https://learn.arm.com/learning-paths/cross-platform/multiplying-matrices-with-sme2/
 * Develop a native C++ library on an Arm-based machine
@@ -68,7 +67,6 @@ https://github.com/ARM-software/ComputeLibrary
   * https://learn.arm.com/learning-paths/cross-platform/eigen-linear-algebra-on-arm/
 * Accelerate an OpenCV-based Android Application with KleidiCV
   * https://learn.arm.com/learning-paths/mobile-graphics-and-gaming/android_opencv_kleidicv/
-
 * Get started with Scalable Vector Extension 2 (SVE2) on Android
   * https://learn.arm.com/learning-paths/mobile-graphics-and-gaming/android_sve2/
 
